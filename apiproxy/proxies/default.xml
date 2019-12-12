@@ -194,7 +194,7 @@
     </Flow>
   </Flows>
   <HTTPProxyConnection>
-    <BasePath>/tmf-api/changeManagement/v2/</BasePath>
+    <BasePath>/dummyTest/v2/</BasePath>
     <VirtualHost>default</VirtualHost>
   </HTTPProxyConnection>
   <FaultRules>
